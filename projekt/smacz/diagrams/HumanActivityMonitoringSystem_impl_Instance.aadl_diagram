@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="da8ab0e5-bf56-4106-b254-bea1946c8342" manual="true">
+    <element uuid="ad6ed0b0-a61b-4b8c-80e9-255137e71fc0" manual="true">
+      <element uuid="76bae9d7-99f9-4d91-8b59-4263ba6a4df6" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="2574d170-7833-40cd-82da-3f66de95e147" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>ToggleAlarm</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>alarm</seg>
+      </bo>
+      <position x="2209.0" y="866.0"/>
+      <size width="284.0" height="110.0"/>
+    </element>
+    <element uuid="7064c221-6567-4457-bf23-086e19813838" manual="true">
+      <element uuid="eea639cf-e590-4a9f-89ae-992857f960fa" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="138.24869918823242" y="60.0"/>
+      </element>
+      <element uuid="7ebc50f5-57e4-4d7b-9995-98635919624d" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="129.70703506469727" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>brba</seg>
+      </bo>
+      <position x="1149.0" y="758.0"/>
+      <size width="177.0" height="110.0"/>
+    </element>
+    <element uuid="e1cd8e23-c06a-4228-b594-f0a722d7a861" manual="true">
+      <element uuid="2985c013-6755-48bc-bde3-c2cd83ec0a7e" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="138.24869918823242" y="10.0"/>
+      </element>
+      <element uuid="7cf0ca49-3eca-4ef9-be35-4e1059af469e" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="129.70703506469727" y="60.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>brbb</seg>
+      </bo>
+      <position x="1149.0" y="415.0"/>
+      <size width="177.0" height="110.0"/>
+    </element>
+    <element uuid="4f6b54f3-dd70-46c5-8689-f933f0af0d41" manual="true">
+      <element uuid="ebd84331-6745-48f6-a30f-b5aa0fbf3f23" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="137.24869918823242" y="60.0"/>
+      </element>
+      <element uuid="e69ba1b9-c522-4e4d-882f-bdd0a29de6e6" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="128.70703506469727" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>brbc</seg>
+      </bo>
+      <position x="1150.0" y="1166.0"/>
+      <size width="176.0" height="110.0"/>
+    </element>
+    <element uuid="d9613bcc-3eec-4651-a42b-9483a262fa33" manual="true">
+      <element uuid="0136e7d8-4f75-495c-9aec-225ac0a48d24" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="138.24869918823242" y="60.0"/>
+      </element>
+      <element uuid="62ef2678-c612-45f0-ba4c-815117e72bbc" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="129.70703506469727" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>brbd</seg>
+      </bo>
+      <position x="1149.0" y="1036.0"/>
+      <size width="177.0" height="110.0"/>
+    </element>
+    <element uuid="373ddf1d-130c-45e3-bf3f-d3efd821192c" manual="true">
+      <element uuid="76c71a82-8403-4641-8f77-c3f7e0a622b9" manual="true" dockArea="left">
+        <element uuid="96110946-2edc-4dc4-84eb-489f0670806a" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GPIOInput</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="72bbd73c-e9fc-47ad-a31d-80b0cd3828f5" manual="true" dockArea="right">
+        <element uuid="01dcacbd-2938-46be-8325-5908580b9b89" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>ScreenOutput</seg>
+        </bo>
+        <position x="275.5520782470703" y="35.0"/>
+      </element>
+      <element uuid="7554ba22-95d8-4d09-983b-7355a3ee6b22" manual="true" dockArea="left">
+        <element uuid="1b6cc0fb-aa75-4f1c-bb37-473016ff3a7c" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="5b7c9788-cc7b-48ee-95dd-6b342f022ec2" manual="true">
+        <bo>
+          <seg>pvg</seg>
+          <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+          <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>daemon_process</seg>
+      </bo>
+      <position x="1789.0" y="304.0"/>
+      <size width="380.0" height="110.0"/>
+    </element>
+    <element uuid="4a8d3d33-78a7-46ae-9afe-cdc990e36eaa" manual="true">
+      <element uuid="b182949f-464c-492c-9c92-97efe3866d68" manual="true" dockArea="left">
+        <element uuid="d954fc52-56a2-4c43-a31e-c1c5332d1ef2" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BinaryInput</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="d71dbe50-b293-4b33-884a-957fa0702d40" manual="true" dockArea="right">
+        <element uuid="3fa6a16a-35fa-479c-bc46-509d2413f536" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>CSVOutput</seg>
+        </bo>
+        <position x="253.79036712646484" y="35.0"/>
+      </element>
+      <element uuid="ff547303-b3c8-405f-a912-a580d6fc7005" manual="true" dockArea="left">
+        <element uuid="71462018-a4ba-48ee-be53-482dc2be88d0" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="27e0e828-52fb-441d-bcd0-f856ece993d5" manual="true">
+        <bo>
+          <seg>pvg</seg>
+          <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+          <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>export_process</seg>
+      </bo>
+      <position x="2209.0" y="199.0"/>
+      <size width="339.0" height="110.0"/>
+    </element>
+    <element uuid="5062f209-141b-4cde-bc81-96f12daca66e" manual="true">
+      <element uuid="b7f46456-5345-4f24-b9f9-a9fe62db0815" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>a</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="7035fa04-62a4-4a54-a36e-2e509c678e15" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>b</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="502e0f1c-5547-47fd-9081-d3cf61a9e0a0" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="161.24869918823242" y="160.0"/>
+      </element>
+      <element uuid="06733313-d189-4b9b-9a3e-3ea3ddb6b26e" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>c</seg>
+        </bo>
+        <position y="310.0"/>
+      </element>
+      <element uuid="88cb4c10-fe5f-4005-b694-5867d6a5a510" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>d</seg>
+        </bo>
+        <position y="260.0"/>
+      </element>
+      <element uuid="33ceadbd-526b-4dcd-8ea1-e035db29b479" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>output</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="ad18f78b-1a89-4999-af74-882257dc6b86" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>pow</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="da9488a6-a492-4169-8e32-c9d2146f708d" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>rec</seg>
+        </bo>
+        <position y="210.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>gpios</seg>
+      </bo>
+      <position x="1428.0" y="608.0"/>
+      <size width="200.0" height="360.0"/>
+    </element>
+    <element uuid="680d54b8-5eb1-47b2-87ee-caf2a375c0ca" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>gpios_bus</seg>
+      </bo>
+      <position x="1822.0" y="908.0"/>
+      <size width="118.0" height="150.0"/>
+    </element>
+    <element uuid="fdb8a878-d937-4701-8d77-d353eb7aa4d5" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>i2c</seg>
+      </bo>
+      <position x="2588.0" y="341.0"/>
+      <size width="72.0" height="90.0"/>
+    </element>
+    <element uuid="5ff4783e-4587-4b50-b6a3-d769c23afd51" manual="true">
+      <element uuid="a74ad1ce-b58e-4858-b69d-87f0ed4015c7" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>AccelerometerOutput</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="67a41c5e-7d1c-4987-b963-6a8bef91308a" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="363.2486991882324" y="43.0"/>
+      </element>
+      <element uuid="a63bc265-acdf-40c6-9fa0-e410d708dd0e" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GeneralOutput</seg>
+        </bo>
+        <position x="291.13932037353516" y="127.0"/>
+      </element>
+      <element uuid="66ea0065-91d6-4c25-91d5-275a8d83defe" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GyroscopeOutput</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="601b84c8-1d53-4159-874c-7f4f019155cd" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>MagnetometerOutput</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="c25185ff-91a1-4567-bed8-9e6317f1ca4a" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>SamplingSettings</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>imu_f</seg>
+      </bo>
+      <position x="536.0" y="38.0"/>
+      <size width="402.0" height="210.0"/>
+    </element>
+    <element uuid="89e9ee35-7216-4f4f-86e2-0626e4d163e9" manual="true">
+      <element uuid="fce5630b-61a7-4bd2-8524-4482f541136a" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>AccelerometerOutput</seg>
+        </bo>
+        <position y="160.0"/>
+      </element>
+      <element uuid="1a7860ad-81ea-4d1d-ab6e-f1f1b18bd277" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="366.2486991882324" y="127.0"/>
+      </element>
+      <element uuid="1d8abe27-cff6-4a61-9abb-c31af07afda9" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GeneralOutput</seg>
+        </bo>
+        <position x="294.13932037353516" y="43.0"/>
+      </element>
+      <element uuid="12036f79-1516-4dc3-b5f0-8a9ca76d9f70" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GyroscopeOutput</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <element uuid="cffcfd2c-be5c-4560-a95e-e4eecff0fde4" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>MagnetometerOutput</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="a9d62d0c-e9e3-4ff5-9b16-51577c79f1ac" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>SamplingSettings</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>imu_n</seg>
+      </bo>
+      <position x="532.0" y="268.0"/>
+      <size width="405.0" height="210.0"/>
+    </element>
+    <element uuid="0344bd2f-0fd9-4a3b-9f14-bc7b3b195a54" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>pi_bus</seg>
+      </bo>
+      <position x="220.0" y="60.0"/>
+      <size width="95.0" height="50.0"/>
+    </element>
+    <element uuid="276fe8fd-459b-4d38-a8aa-8d58323e5fa1" manual="true">
+      <element uuid="8d2bd9cc-d7fc-41ec-b365-6f419257eed7" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>pi_card</seg>
+      </bo>
+      <position x="334.0" y="38.0"/>
+      <size width="178.0" height="60.0"/>
+    </element>
+    <element uuid="c119465b-4ec0-4984-a948-ed93ab2cd915" manual="true">
+      <element uuid="35fa37ae-a521-4e44-9470-92e22738f9f1" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="149.24869918823242" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>pi_cpu_1</seg>
+      </bo>
+      <position x="12.0" y="118.0"/>
+      <size width="188.0" height="60.0"/>
+    </element>
+    <element uuid="af399317-8ab0-4d69-a272-d14c52853cd1" manual="true">
+      <element uuid="71356b2d-ce18-4232-9421-71208a5cf014" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="149.24869918823242" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>pi_cpu_2</seg>
+      </bo>
+      <position x="12.0" y="38.0"/>
+      <size width="188.0" height="60.0"/>
+    </element>
+    <element uuid="1d1c630f-d836-4071-a755-4783fee790e0" manual="true">
+      <element uuid="31cc3bd9-8ac8-424c-a099-b5e22e6c3759" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>pi_ram</seg>
+      </bo>
+      <position x="334.0" y="118.0"/>
+      <size width="175.0" height="60.0"/>
+    </element>
+    <element uuid="350e1efe-47c0-4aa8-8904-da15ee1219cd" manual="true">
+      <element uuid="b830c13f-da8b-48bb-89a0-2577dbecf4b2" manual="true" dockArea="right">
+        <element uuid="6a3ff9d3-efc6-495e-919d-4542282950c8" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>AlarmPort</seg>
+        </bo>
+        <position x="263.62630462646484" y="10.0"/>
+      </element>
+      <element uuid="9e3aa690-f8b3-4277-aef0-6a0c291da561" manual="true" dockArea="left">
+        <element uuid="e53eba65-62be-471d-9e74-cb7eef28f45e" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BinaryInput</seg>
+        </bo>
+        <position y="35.0"/>
+      </element>
+      <element uuid="f07131a1-8199-40ca-8bd4-d71d288f7b0d" manual="true" dockArea="right">
+        <element uuid="2a3ecc24-811e-4e2a-87e5-72d70e9c369a" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position x="289.04297256469727" y="60.0"/>
+      </element>
+      <element uuid="1f8deab6-0556-4c4f-8e33-2e32ffe39e0b" manual="true">
+        <bo>
+          <seg>pvg</seg>
+          <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+          <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>predict_process</seg>
+      </bo>
+      <position x="1397.0" y="238.0"/>
+      <size width="342.0" height="110.0"/>
+    </element>
+    <element uuid="2e1c24d6-62b2-4aee-a048-2bdfee5b8f40" manual="true">
+      <element uuid="ea9a9ba1-c86e-4b71-a2ee-76a23142df7e" manual="true" dockArea="right">
+        <element uuid="f79cb3a7-a36e-4a22-b244-ff385ff0c3ea" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BinaryOutput</seg>
+        </bo>
+        <position x="267.83984375" y="10.0"/>
+      </element>
+      <element uuid="6aa7fe2f-c5c8-4b82-93f4-07290fe672e5" manual="true" dockArea="right">
+        <element uuid="75b6e670-3845-4896-b212-9c9453809377" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GPIOInput</seg>
+        </bo>
+        <position x="289.67578887939453" y="160.0"/>
+      </element>
+      <element uuid="3ccba92c-e5ab-4d0f-a65d-65d2fd0a771c" manual="true" dockArea="left">
+        <element uuid="29777d6a-9713-4f18-91da-1195c7470be3" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>IMU_F_input</seg>
+        </bo>
+        <position y="43.0"/>
+      </element>
+      <element uuid="aadaf640-c172-4634-a527-6dae64bf7e99" manual="true" dockArea="left">
+        <element uuid="b19b1c20-3cf6-4206-89ed-ee0a054b7cc0" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>IMU_N_input</seg>
+        </bo>
+        <position y="127.0"/>
+      </element>
+      <element uuid="c8466563-fd0d-40cd-99e2-5c8e36cb214c" manual="true" dockArea="right">
+        <element uuid="fea1f272-38af-406f-a0c4-c5ee04d10409" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>ScreenOutput</seg>
+        </bo>
+        <position x="264.5520782470703" y="110.0"/>
+      </element>
+      <element uuid="6e3e58fc-e698-4289-bc47-44bc2ae5b3eb" manual="true" dockArea="right">
+        <element uuid="57a9dd5d-79ec-4f39-90f0-81edf7701786" manual="true">
+          <bo>
+            <seg>pvg</seg>
+            <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+            <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+          </bo>
+        </element>
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position x="316.04297256469727" y="60.0"/>
+      </element>
+      <element uuid="1a56c779-80a6-4b1a-a0c6-2f240d9f4a89" manual="true">
+        <bo>
+          <seg>pvg</seg>
+          <seg>Deployment_Properties::Actual_Memory_Binding</seg>
+          <seg>1d1c630f-d836-4071-a755-4783fee790e0</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>record_process</seg>
+      </bo>
+      <position x="958.0" y="185.0"/>
+      <size width="369.0" height="210.0"/>
+    </element>
+    <element uuid="0540a661-1232-400b-9574-08344c61c455" manual="true">
+      <element uuid="b1c58827-0938-4342-a978-b97058fffc5a" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="135.24869918823242" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>screen</seg>
+      </bo>
+      <position x="2374.0" y="1297.0"/>
+      <size width="174.0" height="60.0"/>
+    </element>
+    <element uuid="e3f2198f-5724-4cdb-813c-58bac2f43b75" manual="true">
+      <element uuid="7960c3f7-e3c3-45d0-82e1-04157c517223" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="221.24869918823242" y="10.0"/>
+      </element>
+      <element uuid="0f17c1a3-0dfd-43ea-8439-bd360d51e833" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>input</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>screen_controller</seg>
+      </bo>
+      <position x="2249.0" y="329.0"/>
+      <size width="260.0" height="60.0"/>
+    </element>
+    <element uuid="27eac181-565b-4875-a835-23d45b094ed7" manual="true">
+      <element uuid="2f6fdbaa-e98e-4eae-940d-e2809956bb15" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="160.24869918823242" y="10.0"/>
+      </element>
+      <element uuid="de3266a9-e27e-4c50-ba74-00f67b23566f" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="151.70703506469727" y="60.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>sw_pow</seg>
+      </bo>
+      <position x="1128.0" y="545.0"/>
+      <size width="199.0" height="110.0"/>
+    </element>
+    <element uuid="87c556d9-cd1f-4086-b3d9-150c85a43d5a" manual="true">
+      <element uuid="5d41745c-2caf-4307-919d-113e2b361704" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BA1</seg>
+        </bo>
+        <position x="153.24869918823242" y="60.0"/>
+      </element>
+      <element uuid="ead850d1-d878-4362-a1c3-c185301c0ddf" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>State</seg>
+        </bo>
+        <position x="144.70703506469727" y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>sw_rec</seg>
+      </bo>
+      <position x="1134.0" y="906.0"/>
+      <size width="192.0" height="110.0"/>
+    </element>
+    <element uuid="3eab1e06-aa44-440d-ba4b-16872eb0c1e1" manual="true">
+      <element uuid="8065af2c-2220-44b4-864e-e6871d6e1d29" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Input</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>terminal</seg>
+      </bo>
+      <position x="2588.0" y="224.0"/>
+      <size width="201.0" height="60.0"/>
+    </element>
+    <element uuid="29c5d71b-70c6-474b-ab45-9c59123b77ff" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>a_agr : HumanActivityMonitoringSystem_impl_Instance.brba.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.a</seg>
+      </bo>
+    </element>
+    <element uuid="f13ee97f-1dcc-46c5-816c-f23d9284bb63" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>b_agr : HumanActivityMonitoringSystem_impl_Instance.brbb.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.b</seg>
+      </bo>
+      <bendpoints>
+        <point x="1347.0" y="507.0"/>
+        <point x="1347.0" y="700.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="1a2f826c-de98-45bc-95fd-9cf5e1596f28" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>c_agr : HumanActivityMonitoringSystem_impl_Instance.brbc.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.c</seg>
+      </bo>
+      <bendpoints>
+        <point x="1367.0" y="1208.0"/>
+        <point x="1367.0" y="950.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9aefd921-d6b8-46a6-9090-f8c68a8108ed" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>d_agr : HumanActivityMonitoringSystem_impl_Instance.brbd.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.d</seg>
+      </bo>
+      <bendpoints>
+        <point x="1357.0" y="1078.0"/>
+        <point x="1357.0" y="900.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="974844a1-294f-4daf-aacd-d5dd91ae1ce2" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>dae_scr_contr : HumanActivityMonitoringSystem_impl_Instance.daemon_process.ScreenOutput -> HumanActivityMonitoringSystem_impl_Instance.screen_controller.input</seg>
+      </bo>
+    </element>
+    <element uuid="acea0e0b-a356-4cc1-99b9-84a0e22be9bb" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>exp_term : HumanActivityMonitoringSystem_impl_Instance.export_process.CSVOutput -> HumanActivityMonitoringSystem_impl_Instance.terminal.Input</seg>
+      </bo>
+    </element>
+    <element uuid="c48457b8-13d2-4cb0-aef4-1f0a4b0d1ca3" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC1 : HumanActivityMonitoringSystem_impl_Instance.gpios.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1749.0" y="800.0"/>
+        <point x="1749.0" y="958.0"/>
+        <point x="1818.0" y="958.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="62d354e0-0c39-472c-bbf0-d92f44c385e3" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC1 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.gpios.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="968.0"/>
+        <point x="1749.0" y="968.0"/>
+        <point x="1749.0" y="800.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="0efb1f7a-692b-447f-9746-ee5a1e674a20" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC2 : HumanActivityMonitoringSystem_impl_Instance.brba.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1337.0" y="850.0"/>
+        <point x="1337.0" y="978.0"/>
+        <point x="1818.0" y="978.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="e021a27f-5460-4462-b2db-721afb98ca46" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC2 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.brba.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="988.0"/>
+        <point x="1749.0" y="988.0"/>
+        <point x="1749.0" y="978.0"/>
+        <point x="1337.0" y="978.0"/>
+        <point x="1337.0" y="850.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8b3ddeb8-83ab-49f8-b63b-35c7ec494ce1" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC3 : HumanActivityMonitoringSystem_impl_Instance.brbb.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1779.0" y="457.0"/>
+        <point x="1779.0" y="918.0"/>
+        <point x="1818.0" y="918.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f2db5914-f1c8-460d-9ff0-b38a5692dbec" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC3 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.brbb.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="928.0"/>
+        <point x="1779.0" y="928.0"/>
+        <point x="1779.0" y="457.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="aefe52db-9bb1-423d-86a3-c55b842e20d8" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC4 : HumanActivityMonitoringSystem_impl_Instance.brbc.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1759.0" y="1258.0"/>
+        <point x="1759.0" y="1038.0"/>
+        <point x="1818.0" y="1038.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="90e195ad-1a5a-4388-9e9c-b49d3872dbdc" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC4 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.brbc.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="1048.0"/>
+        <point x="1759.0" y="1048.0"/>
+        <point x="1759.0" y="1258.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ba3c5dd3-f374-4060-8d11-a526b6c2c9d7" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC5 : HumanActivityMonitoringSystem_impl_Instance.brbd.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1749.0" y="1128.0"/>
+        <point x="1749.0" y="1018.0"/>
+        <point x="1818.0" y="1018.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="7cae2213-ecd3-458c-8acc-47798e5d569e" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC5 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.brbd.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="1028.0"/>
+        <point x="1749.0" y="1028.0"/>
+        <point x="1749.0" y="1128.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="9674a71e-ab95-4aa9-b91f-2c4ae01e3b2f" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC6 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.sw_pow.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1818.0" y="938.0"/>
+        <point x="1759.0" y="938.0"/>
+        <point x="1759.0" y="587.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="037710bd-f191-42cd-8d7a-16430f3bc1eb" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC6 : HumanActivityMonitoringSystem_impl_Instance.sw_pow.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1759.0" y="587.0"/>
+        <point x="1759.0" y="948.0"/>
+        <point x="1818.0" y="948.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="15f42c73-8f85-43eb-8202-d6684443070c" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC7 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.sw_rec.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1822.0" y="998.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8133167f-05fb-495a-8148-3b364b2533d7" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC7 : HumanActivityMonitoringSystem_impl_Instance.sw_rec.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="1749.0" y="998.0"/>
+        <point x="1749.0" y="1008.0"/>
+        <point x="1818.0" y="1008.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="17f65c2a-a858-4822-b35c-da21b95713ed" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC8 : HumanActivityMonitoringSystem_impl_Instance.alarm.BA1 -> HumanActivityMonitoringSystem_impl_Instance.gpios_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="2179.0" y="958.0"/>
+        <point x="2179.0" y="1008.0"/>
+        <point x="1944.0" y="1008.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f88a418d-3d0b-43ce-9784-bea550995c88" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>GPAC8 : HumanActivityMonitoringSystem_impl_Instance.gpios_bus -> HumanActivityMonitoringSystem_impl_Instance.alarm.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="1940.0" y="958.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="25bb76a3-170c-4012-ba66-b37f7958d85d" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>gpios_dae : HumanActivityMonitoringSystem_impl_Instance.gpios.output -> HumanActivityMonitoringSystem_impl_Instance.daemon_process.GPIOInput</seg>
+      </bo>
+      <bendpoints>
+        <point x="1357.0" y="650.0"/>
+        <point x="1357.0" y="598.0"/>
+        <point x="1769.0" y="598.0"/>
+        <point x="1769.0" y="346.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="ddedbcc5-9afd-4381-9b85-bb7cf83d2315" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>gpios_rec : HumanActivityMonitoringSystem_impl_Instance.gpios.output -> HumanActivityMonitoringSystem_impl_Instance.record_process.GPIOInput</seg>
+      </bo>
+      <bendpoints>
+        <point x="1357.0" y="650.0"/>
+        <point x="1357.0" y="377.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="f1b6ff04-50f2-4653-94e8-fbb928b28514" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC1 : HumanActivityMonitoringSystem_impl_Instance.i2c -> HumanActivityMonitoringSystem_impl_Instance.imu_n.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="2584.0" y="391.0"/>
+        <point x="2558.0" y="391.0"/>
+        <point x="2558.0" y="1286.0"/>
+        <point x="948.0" y="1286.0"/>
+        <point x="948.0" y="427.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="d045509c-c543-4beb-bb30-cc0230634fe2" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC1 : HumanActivityMonitoringSystem_impl_Instance.imu_n.BA1 -> HumanActivityMonitoringSystem_impl_Instance.i2c</seg>
+      </bo>
+      <bendpoints>
+        <point x="948.0" y="427.0"/>
+        <point x="948.0" y="1286.0"/>
+        <point x="2179.0" y="1286.0"/>
+        <point x="2179.0" y="1367.0"/>
+        <point x="2578.0" y="1367.0"/>
+        <point x="2578.0" y="421.0"/>
+        <point x="2584.0" y="421.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="32c0a998-bef3-45ff-8e4c-4849c180d4b0" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC2 : HumanActivityMonitoringSystem_impl_Instance.i2c -> HumanActivityMonitoringSystem_impl_Instance.imu_f.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="2584.0" y="351.0"/>
+        <point x="2558.0" y="351.0"/>
+        <point x="2558.0" y="113.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8ee995b1-7738-42a6-b6d1-acc974a54072" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC2 : HumanActivityMonitoringSystem_impl_Instance.imu_f.BA1 -> HumanActivityMonitoringSystem_impl_Instance.i2c</seg>
+      </bo>
+      <bendpoints>
+        <point x="2558.0" y="113.0"/>
+        <point x="2558.0" y="361.0"/>
+        <point x="2584.0" y="361.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="e086d396-d974-452a-9918-580f753882a8" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC3 : HumanActivityMonitoringSystem_impl_Instance.i2c -> HumanActivityMonitoringSystem_impl_Instance.screen_controller.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="2584.0" y="381.0"/>
+        <point x="2558.0" y="381.0"/>
+        <point x="2558.0" y="371.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="88a276dc-190c-4232-9356-9528ddfefa5f" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC3 : HumanActivityMonitoringSystem_impl_Instance.screen_controller.BA1 -> HumanActivityMonitoringSystem_impl_Instance.i2c</seg>
+      </bo>
+      <bendpoints>
+        <point x="2588.0" y="371.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="3427a652-8750-4c01-9071-c7d2b0eabec7" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC4 : HumanActivityMonitoringSystem_impl_Instance.i2c -> HumanActivityMonitoringSystem_impl_Instance.screen.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="2584.0" y="401.0"/>
+        <point x="2568.0" y="401.0"/>
+        <point x="2568.0" y="1339.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="a0554bac-e47d-4386-89be-401f93114340" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>I2CAC4 : HumanActivityMonitoringSystem_impl_Instance.screen.BA1 -> HumanActivityMonitoringSystem_impl_Instance.i2c</seg>
+      </bo>
+      <bendpoints>
+        <point x="2568.0" y="1339.0"/>
+        <point x="2568.0" y="411.0"/>
+        <point x="2584.0" y="411.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="4f1bf21d-ee9a-469d-8b98-1867b4450a24" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>imu_f_rec : HumanActivityMonitoringSystem_impl_Instance.imu_f.GeneralOutput -> HumanActivityMonitoringSystem_impl_Instance.record_process.IMU_F_input</seg>
+      </bo>
+      <bendpoints>
+        <point x="948.0" y="197.0"/>
+        <point x="948.0" y="260.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="3c9d1627-fbed-4246-b941-564ef03dbb98" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>imu_n_rec : HumanActivityMonitoringSystem_impl_Instance.imu_n.GeneralOutput -> HumanActivityMonitoringSystem_impl_Instance.record_process.IMU_N_input</seg>
+      </bo>
+    </element>
+    <element uuid="2b7868fc-8d0d-4b51-8355-737e62089399" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC1 : HumanActivityMonitoringSystem_impl_Instance.pi_bus -> HumanActivityMonitoringSystem_impl_Instance.pi_cpu_1.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="216.0" y="90.0"/>
+        <point x="210.0" y="90.0"/>
+        <point x="210.0" y="160.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="c9ccd1d4-1b42-40f4-af52-259360ddbe29" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC1 : HumanActivityMonitoringSystem_impl_Instance.pi_cpu_1.BA1 -> HumanActivityMonitoringSystem_impl_Instance.pi_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="210.0" y="160.0"/>
+        <point x="210.0" y="100.0"/>
+        <point x="216.0" y="100.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8a38821f-3b54-4746-aa11-95c16bb125fe" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC2 : HumanActivityMonitoringSystem_impl_Instance.pi_bus -> HumanActivityMonitoringSystem_impl_Instance.pi_cpu_2.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="216.0" y="70.0"/>
+        <point x="210.0" y="70.0"/>
+        <point x="210.0" y="80.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="8431bcda-02d6-4e41-8636-09d8439e68ab" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC2 : HumanActivityMonitoringSystem_impl_Instance.pi_cpu_2.BA1 -> HumanActivityMonitoringSystem_impl_Instance.pi_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="220.0" y="80.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="bc749406-b8af-4a5b-8cc5-f210fc224373" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC3 : HumanActivityMonitoringSystem_impl_Instance.pi_bus -> HumanActivityMonitoringSystem_impl_Instance.pi_ram.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="318.0" y="90.0"/>
+        <point x="324.0" y="90.0"/>
+        <point x="324.0" y="160.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="94df3594-d7bf-4ab9-8803-b403059f0e92" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC3 : HumanActivityMonitoringSystem_impl_Instance.pi_ram.BA1 -> HumanActivityMonitoringSystem_impl_Instance.pi_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="324.0" y="160.0"/>
+        <point x="324.0" y="100.0"/>
+        <point x="318.0" y="100.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="0668d16a-724c-4054-9dba-089442e119b6" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC4 : HumanActivityMonitoringSystem_impl_Instance.pi_bus -> HumanActivityMonitoringSystem_impl_Instance.pi_card.BA1</seg>
+      </bo>
+      <bendpoints>
+        <point x="314.0" y="80.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="79753ebc-b2d3-4ab0-a972-5a3f3c0379f0" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>PIBAC4 : HumanActivityMonitoringSystem_impl_Instance.pi_card.BA1 -> HumanActivityMonitoringSystem_impl_Instance.pi_bus</seg>
+      </bo>
+      <bendpoints>
+        <point x="324.0" y="80.0"/>
+        <point x="324.0" y="70.0"/>
+        <point x="318.0" y="70.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="83b87757-f0ff-4cfd-aeac-59dbf6a5a3d5" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>pow_agr : HumanActivityMonitoringSystem_impl_Instance.sw_pow.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.pow</seg>
+      </bo>
+      <bendpoints>
+        <point x="1337.0" y="637.0"/>
+        <point x="1337.0" y="750.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="3e610bda-423a-48ef-9a84-745149310872" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>pred_alm : HumanActivityMonitoringSystem_impl_Instance.predict_process.AlarmPort -> HumanActivityMonitoringSystem_impl_Instance.alarm.ToggleAlarm</seg>
+      </bo>
+      <bendpoints>
+        <point x="2199.0" y="280.0"/>
+        <point x="2199.0" y="908.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="45c5b3b2-8402-4969-9b2d-c67c21ad1376" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>rec_agr : HumanActivityMonitoringSystem_impl_Instance.sw_rec.State -> HumanActivityMonitoringSystem_impl_Instance.gpios.rec</seg>
+      </bo>
+      <bendpoints>
+        <point x="1347.0" y="948.0"/>
+        <point x="1347.0" y="850.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="cdbaf9f7-c292-4391-9bb7-89b40bccae7e" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>rec_exp : HumanActivityMonitoringSystem_impl_Instance.record_process.BinaryOutput -> HumanActivityMonitoringSystem_impl_Instance.export_process.BinaryInput</seg>
+      </bo>
+      <bendpoints>
+        <point x="2179.0" y="227.0"/>
+        <point x="2179.0" y="241.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="a9cc52e7-d696-41f3-b623-2a5cd1787d91" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>rec_pred : HumanActivityMonitoringSystem_impl_Instance.record_process.BinaryOutput -> HumanActivityMonitoringSystem_impl_Instance.predict_process.BinaryInput</seg>
+      </bo>
+      <bendpoints>
+        <point x="1387.0" y="227.0"/>
+        <point x="1387.0" y="305.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="06e80ec7-0ba0-4ee9-9054-d0f5c9a24860" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>rec_scr_contr : HumanActivityMonitoringSystem_impl_Instance.record_process.ScreenOutput -> HumanActivityMonitoringSystem_impl_Instance.screen_controller.input</seg>
+      </bo>
+      <bendpoints>
+        <point x="1367.0" y="327.0"/>
+        <point x="1367.0" y="434.0"/>
+        <point x="2189.0" y="434.0"/>
+        <point x="2189.0" y="371.0"/>
+      </bendpoints>
+    </element>
+    <bo>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_humanactivitymonitoringsystem_impl_instance.aaxl2</seg>
+    </bo>
+    <position/>
+    <size width="2801.0" height="1380.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties>
+      <property>deployment_properties::allowed_memory_binding</property>
+      <property>deployment_properties::allowed_processor_binding</property>
+      <property>deployment_properties::actual_memory_binding</property>
+    </enabledAadlProperties>
+    <context>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_humanactivitymonitoringsystem_impl_instance.aaxl2</seg>
+    </context>
+  </config>
+</diagram:Diagram>

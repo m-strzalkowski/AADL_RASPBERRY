@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="aad0f6ce-ef0c-47e7-bd10-ae578bc5502f" manual="true">
+    <element uuid="771d943f-a6e6-4d43-be57-ce35ef2e8ec3" manual="true">
+      <element uuid="49706b8b-6a7a-45b8-8250-2f8f1f609f6b" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GPIOInput</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="1ffcf9a4-4837-4e82-8b44-a5e57bc13a7b" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>ScreenOutput</seg>
+        </bo>
+        <position x="222.3137969970703" y="35.0"/>
+      </element>
+      <element uuid="22eb92c8-6485-41a0-900f-f3a332fd94d4" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>Interrupts</seg>
+      </bo>
+      <position x="295.0963439941406" y="168.0"/>
+      <size width="326.76171875" height="110.0"/>
+    </element>
+    <element uuid="4fd8f15d-8b4c-4789-a66c-7fb774003c22" manual="true">
+      <element uuid="3f805565-19af-4b6c-9fe7-196e680f764f" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>GPIOInput</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="54dd6c16-f17a-450c-a33d-4aba110ea29f" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>ScreenOutput</seg>
+        </bo>
+        <position x="220.484375" y="35.0"/>
+      </element>
+      <element uuid="6cfcedd8-181a-4b27-9acc-83fb930f2ca5" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>MainLoop</seg>
+      </bo>
+      <position x="295.70615132649743" y="38.0"/>
+      <size width="324.9322967529297" height="110.0"/>
+    </element>
+    <element uuid="142c6920-9b69-4117-9a15-0c7308df8bf5" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>gp_int : daemon_process_impl_Instance.GPIOInput -> daemon_process_impl_Instance.Interrupts.GPIOInput</seg>
+      </bo>
+      <bendpoints>
+        <point x="275.0963439941406" y="130.0"/>
+        <point x="275.0963439941406" y="260.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="34372076-b82e-4f78-82a2-e1e11dc6141f" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>gp_loop : daemon_process_impl_Instance.GPIOInput -> daemon_process_impl_Instance.MainLoop.GPIOInput</seg>
+      </bo>
+    </element>
+    <element uuid="ed13ae00-30ee-4892-ae30-0e6f1cf85a0d" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>int_loop : daemon_process_impl_Instance.Interrupts.ScreenOutput -> daemon_process_impl_Instance.ScreenOutput</seg>
+      </bo>
+      <bendpoints>
+        <point x="631.8580932617188" y="235.0"/>
+        <point x="631.8580932617188" y="105.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="79c836f5-7ce3-4ca7-a9dc-49fa11864a7e" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>scr_loop : daemon_process_impl_Instance.MainLoop.ScreenOutput -> daemon_process_impl_Instance.ScreenOutput</seg>
+      </bo>
+    </element>
+    <element uuid="835815f2-0b52-45fa-be33-fbf3add410d2" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_int : daemon_process_impl_Instance.Interrupts.Signal -> daemon_process_impl_Instance.Signal</seg>
+      </bo>
+      <bendpoints>
+        <point x="285.0963439941406" y="210.0"/>
+        <point x="285.0963439941406" y="80.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="d5f0ba14-519a-49c7-a3c2-1c9d8e4f5791" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_int : daemon_process_impl_Instance.Signal -> daemon_process_impl_Instance.Interrupts.Signal</seg>
+      </bo>
+      <bendpoints>
+        <point x="285.0963439941406" y="80.0"/>
+        <point x="285.0963439941406" y="210.0"/>
+      </bendpoints>
+    </element>
+    <element uuid="44c53506-d335-4ceb-aff1-ed1066ba2d41" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_loop : daemon_process_impl_Instance.MainLoop.Signal -> daemon_process_impl_Instance.Signal</seg>
+      </bo>
+    </element>
+    <element uuid="6ae8f08f-9ffd-4a35-8319-30f56a9d02db" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_loop : daemon_process_impl_Instance.Signal -> daemon_process_impl_Instance.MainLoop.Signal</seg>
+      </bo>
+    </element>
+    <element uuid="f6a37724-b6e0-4a29-b562-caaf2378181e" manual="true" dockArea="left">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>GPIOInput</seg>
+      </bo>
+      <position y="98.0"/>
+    </element>
+    <element uuid="e8470e7f-ceb0-4cd1-a10d-6ed6be7cd5b4" manual="true" dockArea="right">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>ScreenOutput</seg>
+      </bo>
+      <position x="758.3060150146484" y="73.0"/>
+    </element>
+    <element uuid="da1d6af2-035b-43be-9bee-ab8056a2c84a" manual="true" dockArea="left">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>Signal</seg>
+      </bo>
+      <position y="48.0"/>
+    </element>
+    <bo>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_daemon_process_impl_instance.aaxl2</seg>
+    </bo>
+    <position/>
+    <size width="862.7539367675781" height="290.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_daemon_process_impl_instance.aaxl2</seg>
+    </context>
+  </config>
+</diagram:Diagram>

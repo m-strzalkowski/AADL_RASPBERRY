@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="3a85fec4-05f3-4765-9110-67253eefabb7" manual="true">
+    <element uuid="ce73f1d8-d5f9-4cf3-99fd-b5654320b88d" manual="true">
+      <element uuid="cf2bc00f-815f-473f-b83a-52b7e5199417" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>BinaryInput</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="a322de0a-7c08-492d-8f36-d7d06d15b2a1" manual="true" dockArea="right">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>CSVOutput</seg>
+        </bo>
+        <position x="209.56641387939453" y="35.0"/>
+      </element>
+      <element uuid="2948a48f-7278-4c10-8159-b2a9f51ef7ad" manual="true" dockArea="left">
+        <bo>
+          <seg>org.osate.ge.diagrams.instance</seg>
+          <seg>feature_instance</seg>
+          <seg>Signal</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>component_instance</seg>
+        <seg>MainLoop</seg>
+      </bo>
+      <position x="270.10939025878906" y="38.0"/>
+      <size width="294.7760467529297" height="110.0"/>
+    </element>
+    <element uuid="9beaa910-8eef-4470-beb0-707c52dae461" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>loop_bin : export_process_impl_Instance.BinaryInput -> export_process_impl_Instance.MainLoop.BinaryInput</seg>
+      </bo>
+    </element>
+    <element uuid="2172ca4f-1d8b-4530-b8d8-e6cc795dc5e2" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>loop_csv : export_process_impl_Instance.MainLoop.CSVOutput -> export_process_impl_Instance.CSVOutput</seg>
+      </bo>
+    </element>
+    <element uuid="1581f204-7edd-46a4-834a-fd55ce0b474a" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_loop : export_process_impl_Instance.MainLoop.Signal -> export_process_impl_Instance.Signal</seg>
+      </bo>
+    </element>
+    <element uuid="efe39d9d-df75-47bf-9c3a-e6885ed3d0ac" manual="true">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>connection_reference</seg>
+        <seg>sig_loop : export_process_impl_Instance.Signal -> export_process_impl_Instance.MainLoop.Signal</seg>
+      </bo>
+    </element>
+    <element uuid="ad08ecd0-c58d-4d1c-8a2b-013435f8fb9c" manual="true" dockArea="left">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>BinaryInput</seg>
+      </bo>
+      <position y="98.0"/>
+    </element>
+    <element uuid="239ad9ab-4e13-4d06-a731-1143f5c31f9b" manual="true" dockArea="right">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>CSVOutput</seg>
+      </bo>
+      <position x="666.255241394043" y="73.0"/>
+    </element>
+    <element uuid="9e42b8a6-4e54-4b71-a33e-032d1ffe9fb8" manual="true" dockArea="left">
+      <bo>
+        <seg>org.osate.ge.diagrams.instance</seg>
+        <seg>feature_instance</seg>
+        <seg>Signal</seg>
+      </bo>
+      <position y="48.0"/>
+    </element>
+    <bo>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_export_process_impl_instance.aaxl2</seg>
+    </bo>
+    <position/>
+    <size width="751.4648742675781" height="160.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>org.osate.ge.diagrams.instance</seg>
+      <seg>system_instance</seg>
+      <seg>/smacz/instances/smacz_export_process_impl_instance.aaxl2</seg>
+    </context>
+  </config>
+</diagram:Diagram>

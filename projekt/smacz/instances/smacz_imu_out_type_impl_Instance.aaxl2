@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?>
+<instance:SystemInstance xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:instance="http://aadl.info/AADL/2.0/instance" name="imu_out_type_impl_Instance" category="data">
+  <componentInstance name="Accelerometer" category="data">
+    <subcomponent xsi:type="aadl2:DataSubcomponent" href="../smacz.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedDataSubcomponent.0"/>
+    <index>0</index>
+    <classifier xsi:type="aadl2:DataType" href="../smacz.aadl#smacz.RawIMUVec3"/>
+  </componentInstance>
+  <componentInstance name="Gyroscope" category="data">
+    <subcomponent xsi:type="aadl2:DataSubcomponent" href="../smacz.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedDataSubcomponent.1"/>
+    <index>0</index>
+    <classifier xsi:type="aadl2:DataType" href="../smacz.aadl#smacz.RawIMUVec3"/>
+  </componentInstance>
+  <componentInstance name="Magnetometer" category="data">
+    <subcomponent xsi:type="aadl2:DataSubcomponent" href="../smacz.aadl#/0/@ownedPublicSection/@ownedClassifier.4/@ownedDataSubcomponent.2"/>
+    <index>0</index>
+    <classifier xsi:type="aadl2:DataType" href="../smacz.aadl#smacz.RawIMUVec3"/>
+  </componentInstance>
+  <systemOperationMode name="No Modes"/>
+  <componentImplementation xsi:type="aadl2:DataImplementation" href="../smacz.aadl#smacz.imu_out_type.impl"/>
+</instance:SystemInstance>
