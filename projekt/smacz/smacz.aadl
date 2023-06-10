@@ -1,36 +1,7 @@
---8.05
---analiza przepływów: raczej musi być w modelu
---główny system na jednym diagaramie, podsystem np. procesów wewnątrz procesora
---podsystemy w osobnych plikach i klauzula with robimy import
---albo urządzenia konkretne w osobnym (rodzaje urządzeń)
---3 metody analizy i odpowiednia złożoność
---bus - processor/device -> thread?
---schedule bound threads/bind and schedule threads
---informacja o możliwych stanach/sygnałach: dodajemy komponent:data z typem enum (z n wartościami)
---porty do przesyłania zdarzeń - np. włączyła sie krańcówka - dla impulsatora enkodera?
---port event zamiast data - urządzenie ??? 
---grupowanie urządzeń
---monostabilny i bistabilny - event i data??
---uzupełniac wątki o opisy czasowe
--- Ma być co najmnniej 10 kompomentów
--- Wszystkie minima - przynajmniej jedna metoda analizy, co najmnije 10 komponentów różnych - na 4
---wykłady są udostępnione
---bo parametry mają miec okreslone wartości
---gdzie sie da typów własnych używać
---do analizy najpierw instancje trzeba mieć
--- na instancji w tekście menu kontekstowe
---potem polewej na instacji metody analizy
---kożdy komponent sprzętowy do jakiejs magistrali
---ctrl + / -zakomentowanie regionu.
--- po jednej krawędzi wchodzącej na port
---pamięć hierarchiczna
--- kod na githubie, metody analizy
---actual memory binding się nie pokazuje
--- configure_diagram -> add (guzik) -> property binding (?)
---File->New->Examples
--- SEI: Software Engineering Institute (Carnegie Mellon University) - rozwijają AADLa
---SEI::MipsCapacity => 1.2mips;
---connection e -> x{Timing => delayed; latency => 0 .. 2m; SEI::BandWidthBudget => ;}
+-- System Monitorowania Aktywności Człowieka --
+--- na podstawie wskazań czujników IMU ---
+-- projekt opisał Mateusz Strzałkowski, 2023 --
+
 package smacz
 public
 	with data_model;
